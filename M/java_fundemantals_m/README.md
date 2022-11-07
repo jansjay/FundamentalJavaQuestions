@@ -4,5 +4,5 @@ Because a compiler has been provided, it is expected that  the code you submit f
 
 Initially, you will receive startup code for each problem. Your task is to add new code to the startup  code to meet requirements that are specified in the instructions below. Do not change the names of the  methods in the startup code (though you may add new methods if you want) and do not change their  signatures or access modifiers (e.g. public)). 
 
-[Problem 1](java_fundemantals_m\src\main\java\javam\fundamentals\m\problem1\README.md)
+[Problem 1](src/main/java/javam/fundamentals/m/problem1/README.md)
 
