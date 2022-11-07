@@ -6,4 +6,5 @@ Initially, you will receive startup code for each problem. Your task is to add n
 
 [Problem 1](src/main/java/javam/fundamentals/m/problem1/README.md)
 [Problem 2](src/main/java/javam/fundamentals/m/problem2/README.md)
+[Problem 3](src/main/java/javam/fundamentals/m/problem3/README.md)
 
