@@ -23,8 +23,8 @@ Hint: To extract the double value from a String, use the static method ```Double
 For example, to extract 2.3 from the String "2.3", use the following code:
 ``` double val = Double.parseDouble("2.3")```
 
-
+```Java```
 [Answer Template](../../../../../resources/problem1/Problem1.java.template)
 
-'''Java'''
+```Java```
 [Answer](Problem1.java)
