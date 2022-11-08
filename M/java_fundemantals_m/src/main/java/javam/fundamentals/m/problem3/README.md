@@ -15,16 +15,16 @@ Note: You may modify declarations of ```Employee``` and ```Manager```, but you m
 
 ```Java```
 Templates
-[Employee](Employee.java.template)
-[Main](Main.java.template)
-[Manager](Manager.java.template)
-[Payable](Payable.java.template)
-[Statistics](Statistics.java.template)
+[Employee.java](Employee.java.template)
+[Main.java](Main.java.template)
+[Manager.java](Manager.java.template)
+[Payable.java](Payable.java.template)
+[Statistics.java](Statistics.java.template)
 
 ```Java```
 Answer
-[Employee](Employee.java)
-[Main](Main.java)
-[Manager](Manager.java)
-[Payable](Payable.java)
-[Statistics](Statistics.java)
+[Employee.java](Employee.java)
+[Main.java](Main.java)
+[Manager.java](Manager.java)
+[Payable.java](Payable.java)
+[Statistics.java](Statistics.java)

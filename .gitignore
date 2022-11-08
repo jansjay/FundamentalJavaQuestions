@@ -23,4 +23,6 @@
 hs_err_pid*
 M/java_fundemantals_m/target/classes/**
 M/java_fundemantals_m/target/test-classes/**
+F/java_fundemantals_f/target/classes/**
+F/java_fundemantals_f/target/test-classes/**
 
