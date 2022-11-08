@@ -1,4 +1,5 @@
 package javam.fundamentals.f.problem1;
+
 public class Problem1 {
 	static int primeCount(int start, int end) {
 		int intStart = start;
