@@ -33,4 +33,4 @@ Some other examples:
 |{2, 3, 5, 7} |0 |the maximum value is odd|
 |{2, 4, 6, 8, 10}| 0| there is no odd value in the array|
 ```Java```
-[Answer](Problem2.java)
+[Answer](Problem3.java)

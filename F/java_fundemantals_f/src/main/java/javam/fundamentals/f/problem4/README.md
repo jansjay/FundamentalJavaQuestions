@@ -19,4 +19,4 @@ Examples:
 |{9, 0, 2, -5, 7} | 2 | The square pairs are <2, 7> and <7, 9>. Note that <-5, 9> and <0, 9>are not square pairs, even though they sum to perfect squares, <br/>because both members of a square pair have to be greater than 0. <br/>Also <7,2> and <9,7> are not square pairs because the first number has to be less than the second number. |
 |{9}| 0 |The array must have at least 2 elements|
 ```Java```
-[Answer](Problem2.java)
+[Answer](Problem4.java)
