@@ -19,3 +19,5 @@ The purpose of this test is to assess your level of preparation in problem-solvi
 [Problem 9](src/main/java/javam/fundamentals/f/problem9/README.md)
 
 [Problem 10](src/main/java/javam/fundamentals/f/problem10/README.md)
+
+[Problem 11](src/main/java/javam/fundamentals/f/problem11/README.md)
