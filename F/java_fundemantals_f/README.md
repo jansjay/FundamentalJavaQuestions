@@ -1,5 +1,7 @@
 The purpose of this test is to assess your level of preparation in problem-solving, and basic programming.
 
+The questions are taken from [https://github.com/ssldhl/maharishi/tree/master/Questions](https://github.com/ssldhl/maharishi/tree/master/Questions)
+
 [Problem 1](src/main/java/javam/fundamentals/f/problem1/README.md)
 
 [Problem 2](src/main/java/javam/fundamentals/f/problem2/README.md)
